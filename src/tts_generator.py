@@ -8,9 +8,15 @@ class TTS_Generator(QMainWindow):
         super().__init__()
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
+
+        #Initial UI setup
         self.ui.comboBox_LanguageChoice.addItems(["English", "Polish"])
         self.ui.radioButton_CoquiAI.setChecked(True)
+        self.ui.pushButton_Stop.setVisible(False)
 
+    
+
+        #
         self.ui.radioButton_CoquiAI.toggled.connect(lambda: check_file_dialog(self))
 
         self.ui.pushButton_UserVoice.clicked.connect(lambda: open_file_dialog(self))

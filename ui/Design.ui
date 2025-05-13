@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>500</width>
+    <width>699</width>
     <height>400</height>
    </rect>
   </property>
@@ -20,8 +20,11 @@
       <x>30</x>
       <y>40</y>
       <width>160</width>
-      <height>111</height>
+      <height>110</height>
      </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
     </property>
     <property name="title">
      <string>TTS Engine</string>
@@ -87,6 +90,9 @@
       <width>240</width>
       <height>110</height>
      </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
     </property>
     <property name="title">
      <string>Language</string>
@@ -188,12 +194,178 @@
      <rect>
       <x>200</x>
       <y>310</y>
-      <width>93</width>
-      <height>28</height>
+      <width>90</width>
+      <height>30</height>
      </rect>
     </property>
     <property name="text">
      <string>Generate TTS</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_Campaign">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>40</y>
+      <width>191</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="title">
+     <string>Campaings</string>
+    </property>
+    <widget class="QCheckBox" name="checkBox_main">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>75</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Main</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+     <property name="tristate">
+      <bool>false</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_arnor">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>50</y>
+       <width>151</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Bones of Arnor</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+     <property name="tristate">
+      <bool>false</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_ember">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>171</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Hunt for Ember Crown</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_paths">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>90</y>
+       <width>171</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Shadowed Paths</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_dale">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>110</y>
+       <width>171</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Haunting of Dale</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_war">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>130</y>
+       <width>141</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Spreading War</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="checkBox_poison">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>150</y>
+       <width>171</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Poison Promise</string>
+     </property>
+     <property name="checked">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="pushButton_Stop">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>310</y>
+      <width>30</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset>
+      <normaloff>../assets/icons/Stop.png</normaloff>../assets/icons/Stop.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>30</width>
+      <height>20</height>
+     </size>
+    </property>
+    <property name="checkable">
+     <bool>false</bool>
+    </property>
+    <property name="default">
+     <bool>false</bool>
     </property>
    </widget>
   </widget>
@@ -202,7 +374,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>500</width>
+     <width>699</width>
      <height>26</height>
     </rect>
    </property>
