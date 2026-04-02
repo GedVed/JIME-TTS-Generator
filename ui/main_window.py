@@ -45,7 +45,7 @@ class Ui_MainWindow(object):
         self.comboBox_VoiceChoice = QtWidgets.QComboBox(parent=self.groupBox_LanguageBox)
         self.comboBox_VoiceChoice.setGeometry(QtCore.QRect(10, 70, 140, 25))
         self.comboBox_VoiceChoice.setObjectName("comboBox_VoiceChoice")
-        self.pushButton_VoiceSample = CustomToolTip(parent=self.groupBox_LanguageBox)
+        self.pushButton_VoiceSample = CustomToolTipButton(parent=self.groupBox_LanguageBox)
         self.pushButton_VoiceSample.setGeometry(QtCore.QRect(160, 70, 31, 25))
         self.pushButton_VoiceSample.setLocale(QtCore.QLocale(QtCore.QLocale.Language.English, QtCore.QLocale.Country.UnitedStates))
         self.pushButton_VoiceSample.setText("")
@@ -53,7 +53,7 @@ class Ui_MainWindow(object):
         icon.addPixmap(QtGui.QPixmap(".\\ui\\../assets/icons/speaker_icon.jpg"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.pushButton_VoiceSample.setIcon(icon)
         self.pushButton_VoiceSample.setObjectName("pushButton_VoiceSample")
-        self.pushButton_UserVoice = CustomToolTip(parent=self.groupBox_LanguageBox)
+        self.pushButton_UserVoice = CustomToolTipButton(parent=self.groupBox_LanguageBox)
         self.pushButton_UserVoice.setGeometry(QtCore.QRect(200, 70, 31, 25))
         self.pushButton_UserVoice.setToolTipDuration(3)
         self.pushButton_UserVoice.setLocale(QtCore.QLocale(QtCore.QLocale.Language.English, QtCore.QLocale.Country.UnitedStates))
@@ -143,4 +143,4 @@ class Ui_MainWindow(object):
         self.checkBox_dale.setText(_translate("MainWindow", "Haunting of Dale"))
         self.checkBox_war.setText(_translate("MainWindow", "Spreading War"))
         self.checkBox_poison.setText(_translate("MainWindow", "Poison Promise"))
-from src.custom_tooltip import CustomToolTip
+from src.custom_tooltip import CustomToolTipButton

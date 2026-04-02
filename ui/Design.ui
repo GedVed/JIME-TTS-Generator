@@ -130,7 +130,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="CustomToolTip" name="pushButton_VoiceSample">
+    <widget class="CustomToolTipButton" name="pushButton_VoiceSample">
      <property name="geometry">
       <rect>
        <x>160</x>
@@ -153,7 +153,7 @@
        <normaloff>../assets/icons/speaker_icon.jpg</normaloff>../assets/icons/speaker_icon.jpg</iconset>
      </property>
     </widget>
-    <widget class="CustomToolTip" name="pushButton_UserVoice">
+    <widget class="CustomToolTipButton" name="pushButton_UserVoice">
      <property name="geometry">
       <rect>
        <x>200</x>
@@ -383,7 +383,7 @@
  </widget>
  <customwidgets>
   <customwidget>
-   <class>CustomToolTip</class>
+   <class>CustomToolTipButton</class>
    <extends>QPushButton</extends>
    <header>src.custom_tooltip</header>
   </customwidget>

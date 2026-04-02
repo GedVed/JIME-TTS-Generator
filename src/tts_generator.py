@@ -13,7 +13,7 @@ class TTS_Generator(QMainWindow):
         self.ui.comboBox_LanguageChoice.addItems(["English", "Polish"])
         self.ui.radioButton_CoquiAI.setChecked(True)
         self.ui.pushButton_Stop.setVisible(False)
-
+        self.ui.progressBar.setVisible(False)
     
 
         #

@@ -3,7 +3,7 @@ from PyQt6.QtCore import QTimer, QEvent, Qt
 from PyQt6.QtGui import QEnterEvent
 
 
-class CustomToolTip(QPushButton):
+class CustomToolTipButton(QPushButton):
     def __init__(self, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
         self.tooltip_text = ""
