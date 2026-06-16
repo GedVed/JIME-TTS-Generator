@@ -1,11 +1,3 @@
-KEY,Polish
-
-
-
-// CAMPAIGN INFORMATION
-
-
-
 CAM_6_CUTSCENE_PROLOGUE, Wymagasz zbyt wiele. Nie mogę tak szybko dostarczyć tyle broni. To nie ujdzie uwadze straży! Przyjąłeś moje warunki. A teraz lękasz się jeźdźców Rohanu? Złam naszą umowę, a nawet cała potęga Rohirrimów cię nie ocali. Błagam, potrzebuję więcej czasu. Przynajmniej tydzień. Nie. Załatwisz to, czego wymagam, i dostarczysz wszystko dokładnie, kiedy ci każę. Znajdź sposób, inaczej pożałujesz. Tak… Oczywiście. Dotrzymam danego słowa.
 
 CAM_6_CUTSCENE_VICTORY_1, Ten stary, cwany ork myślał, że nikt nie sforsuje murów jego twierdzy na wchodzie. Łudził się, że Rohan po prostu się podda! Ha! Nie miał z nami szans.Eadris cieszy się, stawiając ochoczo napitki gościom odbudowanej gospody Nad Entowym Ruczajem. Możecie wreszcie świętować zasłużony sukces. Napracowaliście się, by odkryć sieć intryg, którą lord Angon uknuł przeciw Rohanowi.Koniec końców armia, którą zgromadził władca orków, nie zdołała bezpośrednio zagrozić Rohirrimom. Pozbawieni siatki szpiegów i kupców skaptowanych przez Angona, wrogowie rozpierzchli się po pustkowiach.Dunlendingowie ponownie handlują z Rohanem, choć wiecie, że nigdy nie zapomną krzywd, jakich doznali przed wiekami. Najważniejsze, że na razie nie dążą do wojny. Kiedyś być może król znajdzie sposób, by zjednać sobie ich zaufanie i przyjaźń.Z zamyślenia wyrywają was słowa Eadris. A teraz przekonajmy się, czy lepiej radzicie sobie z kartami niż ostatnio, gdy was ograłam!
@@ -13,11 +5,6 @@ CAM_6_CUTSCENE_VICTORY_1, Ten stary, cwany ork myślał, że nikt nie sforsuje m
 CAM_6_CUTSCENE_VICTORY_2,Kapitan jeźdźców dziękuje wam za wsparcie okazane Rohanowi, nim odprowadza Eadris. Eadris milczy, a jej twarz nie zdradza emocji. Możecie jedynie zgadywać, o czym myśli. Nie macie gwarancji, czy nie będzie dalej knuć przeciwko Rohanowi. Bez niej i lorda Angona szybko zebrana armia orków nie będzie w stanie toczyć wojny z Władcami Koni, którzy panują na stepach. Kontakty handlowe z Dunlandem zostaną odnowione, a Rohan może zdoła unormować relacje z ludźmi z gór i zapobiec przyszłym konfliktom. Lud Rohanu czeka sporo pracy, ale dzięki wam udało się zażegnać katastrofę. Na razie w Helmowym Jarze, gospodzie Nad Entowym Ruczajem i w pozostałych częściach krainy może wreszcie zapanuje pokój.
 
 CAM_6_CUTSCENE_DEFEAT,Drogi Rohanu nie są bezpieczne. Plugawe bestie krążą po niebie, a w nocy niesie się echem wycie wargów. Tam, gdzie niegdyś wznosiły się przytulne gospody, w których wędrowcy mogli liczyć na odpoczynek i strawę, teraz straszą poczerniałe zgliszcza. Wioski, które były zależne od jeźdźców, teraz są odcięte od świata, zdane tylko na siebie. Sami Rohirrimowie zmagają się z brakiem ludzi i, co gorsza, nie mogą ufać rozkazom  nigdy nie wiadomo, czy wydał je król, czy może któryś ze zdrajców, którym udało się przeniknąć na dwór monarchy. Strach i nieufność toczą całą krainę, Dunlendingowie myślą o odbiciu równin, które niegdyś były ich ojczyzną. Zdaje się, że widmo wojny wkrótce się ziści.
-
-
-
-// GENERAL USE KEYS
-
 
 
 A70_ANGON_NAME,Lord Angon
@@ -32,9 +19,7 @@ REMOVE_RULE,Usunięta zasada przygody:
 
 CAM_6_DONE,Przemierzyliście cały Rohan i na własne oczy ujrzeliście, jakie szkody poczyniły knowania lorda Angona i zorganizowany przezeń przemyt broni. Zrobiliście, co w waszej mocy, aby oddalić zagrożenie i wspomóc tych, którzy wciąż pozostają wierni królestwu, jednak obawiacie się, że to nie wystarczy. Wszak nie zdołacie być wszędzie naraz. Nadeszła pora ostatecznej konfrontacji  oby udało się wam zwalczyć niebezpieczeństwo na dobre.
 
-CAM_6_NO_TRUST,Przygotowujecie się do wyprawy na lorda Angona. Późną nocą do waszego obozu chwiejnym krokiem wchodzi wymizerowany przybysz. Z początku podchodzicie do niego ostrożnie, nie wiedząc, czy to przyjaciel, czy wróg. Gdy światło pochodni oświetla mu twarz, natychmiast go rozpoznajecie  to oberżysta Lorcán!  Udało mi się uciec z lochów twierdzy lorda Angona. Odszukałem was, by przekazać wam ważne wieści. Lord nie panuje już nad armią orków. Ta kobieta, Eadris, obaliła go i przejęła władzę. Teraz to ona wszystkim kieruje: szpiedzy, zdrajcy i zastępy orków są na jej rozkazy. Wie, że wkrótce ruszycie na twierdzę, i zawczasu opuściła ją z wojskiem. Teraz dawna siedziba Angona stała się jedynie przynętą. Wiem, gdzie będzie się ukrywać. Pokażę wam, tylko musicie mi zaufać.
-
-,Wiedzieliście, że w końcu ponownie stawicie czoła Eadris, ale nie spodziewaliście się, że ambicja popchnie ją aż tak daleko. Lorcán jest wyczerpany długą wędrówką. Odnalazł was i ostrzegł, za co w podzięce dajecie mu tyle zapasów, iloma tyko możecie się podzielić. Należy powstrzymać Eadris, zanim wykorzysta zjednaną sobie armię, by obrócić Rohan w ruinę, jednak najpierw musicie ją schwytać.
+CAM_6_NO_TRUST,Przygotowujecie się do wyprawy na lorda Angona. Późną nocą do waszego obozu chwiejnym krokiem wchodzi wymizerowany przybysz. Z początku podchodzicie do niego ostrożnie, nie wiedząc, czy to przyjaciel, czy wróg. Gdy światło pochodni oświetla mu twarz, natychmiast go rozpoznajecie  to oberżysta Lorcán!  Udało mi się uciec z lochów twierdzy lorda Angona. Odszukałem was, by przekazać wam ważne wieści. Lord nie panuje już nad armią orków. Ta kobieta, Eadris, obaliła go i przejęła władzę. Teraz to ona wszystkim kieruje: szpiedzy, zdrajcy i zastępy orków są na jej rozkazy. Wie, że wkrótce ruszycie na twierdzę, i zawczasu opuściła ją z wojskiem. Teraz dawna siedziba Angona stała się jedynie przynętą. Wiem, gdzie będzie się ukrywać. Pokażę wam, tylko musicie mi zaufać. Wiedzieliście, że w końcu ponownie stawicie czoła Eadris, ale nie spodziewaliście się, że ambicja popchnie ją aż tak daleko. Lorcán jest wyczerpany długą wędrówką. Odnalazł was i ostrzegł, za co w podzięce dajecie mu tyle zapasów, iloma tyko możecie się podzielić. Należy powstrzymać Eadris, zanim wykorzysta zjednaną sobie armię, by obrócić Rohan w ruinę, jednak najpierw musicie ją schwytać.
 
 CAM_6_TRUST,Twierdza lorda Angona znajduje się na pustkowiach rozciągających się na wschód od Rohanu. Udało wam się zgromadzić sojuszników i teraz macie większe szanse w bezpośrednim starciu niż w zakulisowej walce, w której Angon wciąż mógłby uderzać z cieni. Czeka was długa droga, lecz na końcu pokonacie złowrogiego orczego Władcę Żelaznej Korony.
 
@@ -72,7 +57,7 @@ DM_CHAIN_1_PLACE,Tuż przy drodze dostrzegacie jaśniejącą sylwetkę ducha Wo�
 
 DM_CHAIN_1,Przy drodze stoi jaśniejąca sylwetka ducha. Zdaje się, że zjawy z Martwych Bagien wciąż mają niedokończone sprawy.
 
-DM_CHAIN_1_TALK, Witajcie, podróżnicy  odzywa się duch.  Golgoz opowiedział wojownikowi o bohaterach, którym zdaje się, że są sprytni.  Upiór uśmiecha się, odsłaniając przegniłe zęby.  Wojownik udał się więc daleko, by ich znaleźć i wyzwać na przyjacielski pojedynek na zagadki. Kto wie? Może nawet skuszą się na równie przyjacielski zakład? Duch rzuca wam pod nogi rozmokły wór pełen skarbów.
+DM_CHAIN_1_TALK, Witajcie, podróżnicy odzywa się duch. Golgoz opowiedział wojownikowi o bohaterach, którym zdaje się, że są sprytni. Upiór uśmiecha się, odsłaniając przegniłe zęby.  Wojownik udał się więc daleko, by ich znaleźć i wyzwać na przyjacielski pojedynek na zagadki. Kto wie? Może nawet skuszą się na równie przyjacielski zakład? Duch rzuca wam pod nogi rozmokły wór pełen skarbów.
 
 DM_CHAIN_1_RIDDLE,Kąsam gorzej niż ostra stal.Serce gorętsze od ognia mam.Pancerz mam twardy, nie wiem, co to ból.Na łożu bogatym sypiam niczym król.
 
@@ -94,9 +79,9 @@ DM_CHAIN_1_TEST_PASS, Odpowiedź brzmi:   kwituje duch. Odgadliście poprawnie.T
 
 DM_CHAIN_1_TEST_FAIL, Poprawna odpowiedź brzmi:   komentuje duch.  To było zbyt proste. Jakim cudem nie zdołali tego odgadnąć? Duch zabiera ze sobą swój worek skarbów.
 
-DM_CHAIN_1_REWARD, Sprytni bohaterowie zasługują na nagrodę  rzecze duch.  Przez wieki wiele błyskotek skończyło na dnie bagien.Wiedza tajemna wzrasta o 2. Każdy bohater może przygotować 1 kartę ze swojego stosu kart odrzuconych.
+DM_CHAIN_1_REWARD, Sprytni bohaterowie zasługują na nagrodę rzecze duch.  Przez wieki wiele błyskotek skończyło na dnie bagien.Wiedza tajemna wzrasta o 2. Każdy bohater może przygotować 1 kartę ze swojego stosu kart odrzuconych.
 
-DM_CHAIN_1_DISCARD,Duch Woźnika odwraca się i odchodzi.  Być może ci bohaterowie wciąż mogą pomóc. Niech szukają wojownika przy drzewie prababki.Odrzuć ten żeton postaci.
+DM_CHAIN_1_DISCARD,Duch Woźnika odwraca się i odchodzi. Być może ci bohaterowie wciąż mogą pomóc. Niech szukają wojownika przy drzewie prababki.Odrzuć ten żeton postaci.
 
 
 
@@ -398,7 +383,7 @@ A68_OBJECTIVE_1_SET,Każdy, kto podróżuje traktami Rohanu, prędzej czy późn
 
 
 
-A68_OBJECTIVE_1,Poznajcie najnowsze wieści. (/3)
+A68_OBJECTIVE_1,Poznajcie najnowsze wieści. (0/3)
 
 A68_OBJECTIVE_2,Brońcie gospody.
 
@@ -548,11 +533,11 @@ A68_SEARCH_BOOKS_2,Przekopujecie się przez dostępne zbiory i upewniacie się, 
 
 
 
-A68_OBJECTIVE_NEWS_UPDATE_1,Poznaliście najnowsze wieści, którymi żyje gospoda Nad Entowym Ruczajem. Z pewnością moglibyście dowiedzieć się jeszcze więcej, ale dotąd zasłyszane pogłoski brzmią dość niepokojąco.Cel uaktualniony: Poznajcie najnowsze wieści. (/3)
+A68_OBJECTIVE_NEWS_UPDATE_1,Poznaliście najnowsze wieści, którymi żyje gospoda Nad Entowym Ruczajem. Z pewnością moglibyście dowiedzieć się jeszcze więcej, ale dotąd zasłyszane pogłoski brzmią dość niepokojąco.Cel uaktualniony: Poznajcie najnowsze wieści. (1/3)
 
-A68_OBJECTIVE_NEWS_UPDATE_2,Zasłyszane wieści malują ponury obraz  Rohan mierzy się z widmem wojny i zdrad.Cel uaktualniony: Poznajcie najnowsze wieści. (/3)
+A68_OBJECTIVE_NEWS_UPDATE_2,Zasłyszane wieści malują ponury obraz Rohan mierzy się z widmem wojny i zdrad.Cel uaktualniony: Poznajcie najnowsze wieści. (2/3)
 
-A68_OBJECTIVE_NEWS_UPDATE_3,Jesteście już całkowicie pewni, że Rohan potrzebuje waszej pomocy. Czy lepiej jednak byłoby udać się do Dunlendingów i spróbować ostudzić ich nastroje, czy może poszukać więcej informacji o tajemniczym lordzie Angonie działającym za kulisami?Cel uaktualniony: Poznajcie najnowsze wieści. (/3)
+A68_OBJECTIVE_NEWS_UPDATE_3,Jesteście już całkowicie pewni, że Rohan potrzebuje waszej pomocy. Czy lepiej jednak byłoby udać się do Dunlendingów i spróbować ostudzić ich nastroje, czy może poszukać więcej informacji o tajemniczym lordzie Angonie działającym za kulisami?Cel uaktualniony: Poznajcie najnowsze wieści. (3/3)
 
 A68_OBJECTIVE_NEWS_DONE,Wyciągnęliście z gości karczmy wszelkie dostępne informacje. Wiecie już na tyle dużo, by zacząć rozważać kolejne kroki. W powietrzu faktycznie da się wyczuć napięcie. Macie wrażenie, że to ostatnie chwile ciszy przed burzą. Przeczuwacie, że wkrótce może wydarzyć się coś złego, jednak na razie macie nieco czasu, żeby nacieszyć się gościnnością Nad Entowym Ruczajem.Wiedza tajemna wzrasta o 2.
 
@@ -1277,6 +1262,16 @@ A69_OBJECTIVE_1_SET,Nawet jeśli to pułapka zastawiona przez wojowników Angona
 A69_OBJECTIVE_1,Sprawdźcie, skąd dobiega głos.
 
 A69_OBJECTIVE_2,Zlikwidujcie pułapki (/{1}).
+A69_OBJECTIVE_2_1,Zlikwidujcie pułapki (1 na 10).
+A69_OBJECTIVE_2_2,Zlikwidujcie pułapki (2 na 10).
+A69_OBJECTIVE_2_3,Zlikwidujcie pułapki (3 na 10).
+A69_OBJECTIVE_2_4,Zlikwidujcie pułapki (4 na 10).
+A69_OBJECTIVE_2_5,Zlikwidujcie pułapki (5 na 10).
+A69_OBJECTIVE_2_6,Zlikwidujcie pułapki (6 na 10).
+A69_OBJECTIVE_2_7,Zlikwidujcie pułapki (7 na 10).
+A69_OBJECTIVE_2_8,Zlikwidujcie pułapki (8 na 10).
+A69_OBJECTIVE_2_9,Zlikwidujcie pułapki (9 na 10).
+A69_OBJECTIVE_2_10,Zlikwidujcie pułapki (10 na 10).
 
 A69_OBJECTIVE_3,Ostateczny cel: Wkroczcie do Helmowego Jaru albo udajcie się w drogę powrotną do gospody Nad Entowym Ruczajem.
 
@@ -1312,7 +1307,8 @@ A69_DECOY_HELLO,Gderliwy młodzieniec przedstawia wam się po tym, jak wyplątuj
 
 A69_RULE_GRIMA,Zasada:Bohater z Grimą może przekazać Grimę innemu pobliskiemu bohaterowi. Wykonuje tę czynność jako akcję.
 
-A69_OBJECTIVE_2_SET,Skoro w okolicy grasują gobliny, to oznacza, że lord Angon zaczął już sabotować Helmowy Jar, jak zwykle działając potajemnie. Musicie zabezpieczyć okolicę. Po drodze do fortecy wypatrujcie pułapek i zasadzek. Miejcie oczy i uszy szeroko otwarte.Cel uaktualniony: Zlikwidujcie pułapki (/{1}).
+A69_OBJECTIVE_2_SET,Skoro w okolicy grasują gobliny, to oznacza, że lord Angon zaczął już sabotować Helmowy Jar, jak zwykle działając potajemnie. Musicie zabezpieczyć okolicę. Po drodze do fortecy wypatrujcie pułapek i zasadzek. Miejcie oczy i uszy szeroko otwarte.Cel uaktualniony: Zlikwidujcie pułapki (1 na 10).
+
 
 
 
@@ -2194,10 +2190,12 @@ A71_BOSS_6_DEATH,Zdrajca stawia coraz słabszy opór. Zastanawiacie się, czy lo
 
 
 
-A71_OBJECTIVE_REPEAT,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (/6).
-
-
-
+A71_OBJECTIVE_REPEAT_1,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (1/6).
+A71_OBJECTIVE_REPEAT_2,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (2/6).
+A71_OBJECTIVE_REPEAT_3,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (3/6).
+A71_OBJECTIVE_REPEAT_4,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (4/6).
+A71_OBJECTIVE_REPEAT_5,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (5/6).
+A71_OBJECTIVE_REPEAT_6,Musicie stawić czoła wyzwaniu, zanim znajdziecie drogę ucieczki z jaskiń.Cel uaktualniony: Ucieknijcie z jaskiń (6/6).
 A71_GRIMA_COWER,Grima kuli się ze strachu. Nie będzie w stanie wam pomóc, dopóki nie uporacie się z zagrożeniem.
 
 
@@ -2250,7 +2248,10 @@ A71_PLOT_SEARCH_2,Pod skalną ścianą dostrzegacie leżącą w bezruchu sylwetk
 
 A71_PLOT_SEARCH_2_TEST,Pochylacie się, by lepiej przyjrzeć się strażniczce: dostrzegacie, że jej zbroja jest cała, lecz nigdzie nie widzicie jej hełmu. Okazuje się, że kobieta jest nieprzytomna. Z tyłu jej głowy wyczuwacie lekką opuchliznę po stłuczeniu, co tłumaczy jej stan. Wystarczy ją opatrzyć i ocucić, a powinna dojść do siebie na tyle, by móc uciec razem z wami.wykonaj test mądrości. Jeśli masz przygotowane umiejętności Kwatermistrz lub Zielarz, dodaj 2 sukcesy. Możesz odrzucić umiejętność z cechą Wsparcie, aby zamienić wszystkie symbole przeznaczenia na sukcesy.
 
-A71_PLOT_SEARCH_2_PASS,Dzięki waszej pomocy medycznej strażniczka odzyskuje przytomność, choć wciąż jest zbyt słaba i oszołomiona, by mogła długo ustać na nogach. W najbliższym czasie raczej nie będzie w stanie wydostać się na powierzchnię, nawet z waszą pomocą. Dziękuję wam za opatrzenie ran, ale powinniście już ruszać. Znam ukryte przejście prowadzące nad podziemne jezioro, niedaleko stąd. Mam ze sobą żelazne racje i mogę tam przetrwać przynajmniej tydzień, o ile obiecacie mi, że przyślecie po mnie żołnierzy, gdy już dotrzecie na powierzchnię.Nie mając zbyt dużego wyboru, przystajecie na propozycję Rohirrimki. Gdy tylko wydostaniecie się na powierzchnię, powiadomicie kogo trzeba, aby ją wydostać z podziemnej kryjówki.Każdy bohater otrzymuje 1 punkt doświadczenia. Odrzuć ten żeton przeszukiwania. Cel uaktualniony: Znajdźcie ślady uczonych, strażników i szpiega lorda Angona (/4).
+A71_PLOT_SEARCH_2_PASS_1,Dzięki waszej pomocy medycznej strażniczka odzyskuje przytomność, choć wciąż jest zbyt słaba i oszołomiona, by mogła długo ustać na nogach. W najbliższym czasie raczej nie będzie w stanie wydostać się na powierzchnię, nawet z waszą pomocą. Dziękuję wam za opatrzenie ran, ale powinniście już ruszać. Znam ukryte przejście prowadzące nad podziemne jezioro, niedaleko stąd. Mam ze sobą żelazne racje i mogę tam przetrwać przynajmniej tydzień, o ile obiecacie mi, że przyślecie po mnie żołnierzy, gdy już dotrzecie na powierzchnię.Nie mając zbyt dużego wyboru, przystajecie na propozycję Rohirrimki. Gdy tylko wydostaniecie się na powierzchnię, powiadomicie kogo trzeba, aby ją wydostać z podziemnej kryjówki.Każdy bohater otrzymuje 1 punkt doświadczenia. Odrzuć ten żeton przeszukiwania. Cel uaktualniony: Znajdźcie ślady uczonych, strażników i szpiega lorda Angona (1/4).
+A71_PLOT_SEARCH_2_PASS_2,Dzięki waszej pomocy medycznej strażniczka odzyskuje przytomność, choć wciąż jest zbyt słaba i oszołomiona, by mogła długo ustać na nogach. W najbliższym czasie raczej nie będzie w stanie wydostać się na powierzchnię, nawet z waszą pomocą. Dziękuję wam za opatrzenie ran, ale powinniście już ruszać. Znam ukryte przejście prowadzące nad podziemne jezioro, niedaleko stąd. Mam ze sobą żelazne racje i mogę tam przetrwać przynajmniej tydzień, o ile obiecacie mi, że przyślecie po mnie żołnierzy, gdy już dotrzecie na powierzchnię.Nie mając zbyt dużego wyboru, przystajecie na propozycję Rohirrimki. Gdy tylko wydostaniecie się na powierzchnię, powiadomicie kogo trzeba, aby ją wydostać z podziemnej kryjówki.Każdy bohater otrzymuje 1 punkt doświadczenia. Odrzuć ten żeton przeszukiwania. Cel uaktualniony: Znajdźcie ślady uczonych, strażników i szpiega lorda Angona (2/4).
+A71_PLOT_SEARCH_2_PASS_3,Dzięki waszej pomocy medycznej strażniczka odzyskuje przytomność, choć wciąż jest zbyt słaba i oszołomiona, by mogła długo ustać na nogach. W najbliższym czasie raczej nie będzie w stanie wydostać się na powierzchnię, nawet z waszą pomocą. Dziękuję wam za opatrzenie ran, ale powinniście już ruszać. Znam ukryte przejście prowadzące nad podziemne jezioro, niedaleko stąd. Mam ze sobą żelazne racje i mogę tam przetrwać przynajmniej tydzień, o ile obiecacie mi, że przyślecie po mnie żołnierzy, gdy już dotrzecie na powierzchnię.Nie mając zbyt dużego wyboru, przystajecie na propozycję Rohirrimki. Gdy tylko wydostaniecie się na powierzchnię, powiadomicie kogo trzeba, aby ją wydostać z podziemnej kryjówki.Każdy bohater otrzymuje 1 punkt doświadczenia. Odrzuć ten żeton przeszukiwania. Cel uaktualniony: Znajdźcie ślady uczonych, strażników i szpiega lorda Angona (3/4).
+A71_PLOT_SEARCH_2_PASS_4,Dzięki waszej pomocy medycznej strażniczka odzyskuje przytomność, choć wciąż jest zbyt słaba i oszołomiona, by mogła długo ustać na nogach. W najbliższym czasie raczej nie będzie w stanie wydostać się na powierzchnię, nawet z waszą pomocą. Dziękuję wam za opatrzenie ran, ale powinniście już ruszać. Znam ukryte przejście prowadzące nad podziemne jezioro, niedaleko stąd. Mam ze sobą żelazne racje i mogę tam przetrwać przynajmniej tydzień, o ile obiecacie mi, że przyślecie po mnie żołnierzy, gdy już dotrzecie na powierzchnię.Nie mając zbyt dużego wyboru, przystajecie na propozycję Rohirrimki. Gdy tylko wydostaniecie się na powierzchnię, powiadomicie kogo trzeba, aby ją wydostać z podziemnej kryjówki.Każdy bohater otrzymuje 1 punkt doświadczenia. Odrzuć ten żeton przeszukiwania. Cel uaktualniony: Znajdźcie ślady uczonych, strażników i szpiega lorda Angona (4/4).
 
 A71_PLOT_SEARCH_2_FAIL,Strażniczka jeszcze nie odzyskuje przytomności, choć nieznacznie się poruszyła.
 

@@ -66,6 +66,49 @@ UI_PLACE_EXPLORE_TOKEN,Umieść żeton eksploracji.
 
 UI_THREAT_INCREASE,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o .
 
+
+UI_THREAT_INCREASE_1,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 1.
+UI_THREAT_INCREASE_2,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 2.
+UI_THREAT_INCREASE_3,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 3.
+UI_THREAT_INCREASE_4,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 4.
+UI_THREAT_INCREASE_5,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 5.
+UI_THREAT_INCREASE_6,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 6.
+UI_THREAT_INCREASE_7,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 7.
+UI_THREAT_INCREASE_8,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 8.
+UI_THREAT_INCREASE_9,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 9.
+UI_THREAT_INCREASE_10,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 10.
+UI_THREAT_INCREASE_11,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 11.
+UI_THREAT_INCREASE_12,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 12.
+UI_THREAT_INCREASE_13,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 13.
+UI_THREAT_INCREASE_14,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 14.
+UI_THREAT_INCREASE_15,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 15.
+UI_THREAT_INCREASE_16,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 16.
+UI_THREAT_INCREASE_17,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 17.
+UI_THREAT_INCREASE_18,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 18.
+UI_THREAT_INCREASE_19,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 19.
+UI_THREAT_INCREASE_20,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 20.
+UI_THREAT_INCREASE_21,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 21.
+UI_THREAT_INCREASE_22,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 22.
+UI_THREAT_INCREASE_23,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 23.
+UI_THREAT_INCREASE_24,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 24.
+UI_THREAT_INCREASE_25,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 25.
+UI_THREAT_INCREASE_26,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 26.
+UI_THREAT_INCREASE_27,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 27.
+UI_THREAT_INCREASE_28,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 28.
+UI_THREAT_INCREASE_29,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 29.
+UI_THREAT_INCREASE_30,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 30.
+UI_THREAT_INCREASE_31,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 31.
+UI_THREAT_INCREASE_32,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 32.
+UI_THREAT_INCREASE_33,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 33.
+UI_THREAT_INCREASE_34,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 34.
+UI_THREAT_INCREASE_35,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 35.
+UI_THREAT_INCREASE_36,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 36.
+UI_THREAT_INCREASE_37,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 37.
+UI_THREAT_INCREASE_38,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 38.
+UI_THREAT_INCREASE_39,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 39.
+UI_THREAT_INCREASE_40,Cień gęstnieje, ale jest jeszcze nadzieja. Poziom zagrożenia wzrasta o 40.
+
+
 UI_LAST_STANDS_REMAINING,Testy ostatniej szansy:
 
 UI_LAST_STAND_HERO_CONFIRMATION,Wykonać test ostatniej szansy bohatera ?
@@ -100,9 +143,82 @@ UI_DAMAGE_LOG_WITH_EFFECT_FORMATTED, obrażenia  strach
 
 UI_DAMAGE_LOG_FORMATTED, obrażenia  strach
 YOU_LOST,Przegraliście...
+
+
+
+
 UI_AWARD_TITLE_FORMATTED,Nagrodzono cię tytułem !
 
+
+UI_AWARD_TITLE_FORMATTED_TITLE_MIST_WALKER,Nagrodzono cię tytułem Kroczący Wśród Mgieł!
+UI_AWARD_TITLE_FORMATTED_TITLE_STONE_TALKER,Nagrodzono cię tytułem Mówca Kamienia!
+UI_AWARD_TITLE_FORMATTED_TITLE_PACK_DWELLER,Nagrodzono cię tytułem Opiekun Stada!
+UI_AWARD_TITLE_FORMATTED_TITLE_DWARF_FRIEND,Nagrodzono cię tytułem Przyjaciel Krasnoludów!
+UI_AWARD_TITLE_FORMATTED_TITLE_WORD_WIELDER,Nagrodzono cię tytułem Złotousty!
+UI_AWARD_TITLE_FORMATTED_TITLE_CLUE_FINDER,Nagrodzono cię tytułem Znalazca Tropów!
+UI_AWARD_TITLE_FORMATTED_TITLE_STINGING_FLY,Nagrodzono cię tytułem Natrętna Mucha!
+UI_AWARD_TITLE_FORMATTED_TITLE_WINGFOOT,Nagrodzono cię tytułem Lekkostopy!
+UI_AWARD_TITLE_FORMATTED_TITLE_FRIEND_OF_BEARS,Nagrodzono cię tytułem Przyjaciel Niedźwiedzi!
+UI_AWARD_TITLE_FORMATTED_TITLE_FIRE_GIVER,Nagrodzono cię tytułem Dawca Ognia!
+UI_AWARD_TITLE_FORMATTED_TITLE_GALE_ROCK,Nagrodzono cię tytułem Opoka!
+UI_AWARD_TITLE_FORMATTED_TITLE_STORMCROW,Nagrodzono cię tytułem Kruk Burzy!
+UI_AWARD_TITLE_FORMATTED_TITLE_UNFALLEN,Nagrodzono cię tytułem Nieupadły!
+UI_AWARD_TITLE_FORMATTED_TITLE_ELF_FRIEND,Nagrodzono cię tytułem Przyjaciel Elfów!
+UI_AWARD_TITLE_FORMATTED_TITLE_CONEY_FOOT,Nagrodzono cię tytułem Zajęcza Piętka!
+UI_AWARD_TITLE_FORMATTED_TITLE_SKIN_CHANGER,Nagrodzono cię tytułem Zmiennokształtny!
+UI_AWARD_TITLE_FORMATTED_TITLE_FLAME_BEARER,Nagrodzono cię tytułem Powiernik Płomienia!
+UI_AWARD_TITLE_FORMATTED_TITLE_GUEST_OF_EAGLES,Nagrodzono cię tytułem Gość Orłów!
+UI_AWARD_TITLE_FORMATTED_TITLE_LUCKWEARER,Nagrodzono cię tytułem Wybraniec Szczęścia!
+UI_AWARD_TITLE_FORMATTED_TITLE_LONE_SURVIVOR,Nagrodzono cię tytułem Jedyny Ocalały!
+UI_AWARD_TITLE_FORMATTED_TITLE_BARREL_RIDER,Nagrodzono cię tytułem Jeździec Beczek!
+UI_AWARD_TITLE_FORMATTED_TITLE_NEMESIS,Nagrodzono cię tytułem Nemezis!
+UI_AWARD_TITLE_FORMATTED_TITLE_LORE_MASTER,Nagrodzono cię tytułem Mistrz Wiedzy!
+UI_AWARD_TITLE_FORMATTED_TITLE_STORYTELLER,Nagrodzono cię tytułem Bajarz!
+UI_AWARD_TITLE_FORMATTED_TITLE_TREASURESEEKER,Nagrodzono cię tytułem Poszukiwacz Skarbów!
+UI_AWARD_TITLE_FORMATTED_TITLE_DAWNBRINGER,Nagrodzono cię tytułem Zwiastun Świtu!
+UI_AWARD_TITLE_FORMATTED_TITLE_UNDYING,Nagrodzono cię tytułem Niezłomny!
+UI_AWARD_TITLE_FORMATTED_TITLE_SLY_TONGUE,Nagrodzono cię tytułem Wygadany!
+UI_AWARD_TITLE_FORMATTED_TITLE_SPIRIT_BONDED,Nagrodzono cię tytułem Związany z duchem!
+UI_AWARD_TITLE_FORMATTED_TITLE_FRIEND_OF_ROHAN,Nagrodzono cię tytułem Przyjaciel Rohanu!
+UI_AWARD_TITLE_FORMATTED_TITLE_FRIEND_OF_GONDOR,Nagrodzono cię tytułem Przyjaciel Gondoru!
+UI_AWARD_TITLE_FORMATTED_TITLE_BEAST_SINGER,Nagrodzono cię tytułem Zaklinacz bestii!
+
+
 UI_AWARD_TITLE_CHOOSE_HERO,Nagrodzono cię tytułem !Wybierz bohatera, aby przydzielić mu ten tytuł.
+
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_MIST_WALKER,Nagrodzono cię tytułem Kroczący Wśród Mgieł! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_STONE_TALKER,Nagrodzono cię tytułem Mówca Kamienia! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_PACK_DWELLER,Nagrodzono cię tytułem Opiekun Stada! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_DWARF_FRIEND,Nagrodzono cię tytułem Przyjaciel Krasnoludów! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_WORD_WIELDER,Nagrodzono cię tytułem Złotousty! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_CLUE_FINDER,Nagrodzono cię tytułem Znalazca Tropów! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_STINGING_FLY,Nagrodzono cię tytułem Natrętna Mucha! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_WINGFOOT,Nagrodzono cię tytułem Lekkostopy! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_FRIEND_OF_BEARS,Nagrodzono cię tytułem Przyjaciel Niedźwiedzi! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_FIRE_GIVER,Nagrodzono cię tytułem Dawca Ognia! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_GALE_ROCK,Nagrodzono cię tytułem Opoka! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_STORMCROW,Nagrodzono cię tytułem Kruk Burzy! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_UNFALLEN,Nagrodzono cię tytułem Nieupadły! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_ELF_FRIEND,Nagrodzono cię tytułem Przyjaciel Elfów! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_CONEY_FOOT,Nagrodzono cię tytułem Zajęcza Piętka! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_SKIN_CHANGER,Nagrodzono cię tytułem Zmiennokształtny! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_FLAME_BEARER,Nagrodzono cię tytułem Powiernik Płomienia! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_GUEST_OF_EAGLES,Nagrodzono cię tytułem Gość Orłów! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_LUCKWEARER,Nagrodzono cię tytułem Wybraniec Szczęścia! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_LONE_SURVIVOR,Nagrodzono cię tytułem Jedyny Ocalały! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_BARREL_RIDER,Nagrodzono cię tytułem Jeździec Beczek! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_NEMESIS,Nagrodzono cię tytułem Nemezis! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_LORE_MASTER,Nagrodzono cię tytułem Mistrz Wiedzy! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_STORYTELLER,Nagrodzono cię tytułem Bajarz! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_TREASURESEEKER,Nagrodzono cię tytułem Poszukiwacz Skarbów! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_DAWNBRINGER,Nagrodzono cię tytułem Zwiastun Świtu! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_UNDYING,Nagrodzono cię tytułem Niezłomny! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_SLY_TONGUE,Nagrodzono cię tytułem Wygadany! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_SPIRIT_BONDED,Nagrodzono cię tytułem Związany z duchem! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_FRIEND_OF_ROHAN,Nagrodzono cię tytułem Przyjaciel Rohanu! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_FRIEND_OF_GONDOR,Nagrodzono cię tytułem Przyjaciel Gondoru! Wybierz bohatera, aby przydzielić mu ten tytuł.
+UI_AWARD_TITLE_CHOOSE_HERO_TITLE_BEAST_SINGER,Nagrodzono cię tytułem Zaklinacz bestii! Wybierz bohatera, aby przydzielić mu ten tytuł.
+
 
 UI_CONFIRM_EXPLORE,Eksplorować?
 TEMP_EXPLORE_END,Twoja podróż trwa dalej…
@@ -6867,7 +6983,7 @@ TERRAIN_NODE_BARRICADE,Barykada
 
 TERRAIN_NODE_BARRICADE_PLURAL,Barykady
 
-TERRAIN_NODE_BARRICADE_REMINDER,BarykadaBohaterowie i wrogowie nie mogą się ruszać na ten obszar (chyba że mogą ignorować rodzaj terenu).
+TERRAIN_NODE_BARRICADE_REMINDER,Barykada Bohaterowie i wrogowie nie mogą się ruszać na ten obszar (chyba że mogą ignorować rodzaj terenu).
 
 
 
@@ -7843,6 +7959,12 @@ E_QUOITS_FAIL_2,Nim szczerzy się, przeliczając wygraną.  Chętnie zagram jesz
 
 UI_SPAWN_GROUP_FORMAT_1,Wystaw 
 UI_SPAWN_GROUP_FORMAT_2, na wskazanym obszarze.
+
+
+
+
+
+
 
 E_FRIENDLY_HORSE_TEST_BEASTFRIEND,Słyszysz różne dźwięki, w tym rżenie konia. Delikatnie rozchylasz gałęzie krzaków i dostrzegasz siwą klacz, która radośnie podgryza liście. Nie ma siodła, więc zapewne jest dzika.Wykonaj test mądrosći; 3. Dodaj 1 przeznaczenie za każdą kartę z cechą Istota na Twojej strefie gry.
 
